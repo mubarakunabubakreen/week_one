@@ -1,4 +1,4 @@
-My name is Munir Abubakar. And I am Git and I am using Github
+My name is Munir Abubakar. Learning Git using github
 
 //git init
 //git status
@@ -8,3 +8,4 @@ My name is Munir Abubakar. And I am Git and I am using Github
 //git pull
 //git checkout -b 
 // 
+
