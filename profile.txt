@@ -1,0 +1,10 @@
+My name is Munir Abubakar. And I am Git and I am using Github
+
+//git init
+//git status
+//git add 
+//git commit 
+//git push
+//git pull
+//git checkout -b 
+// 
